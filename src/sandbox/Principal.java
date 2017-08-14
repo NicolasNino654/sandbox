@@ -8,6 +8,7 @@ package sandbox;
 public class Principal {
     
 public String Main(){
-    return null;
+    System.out.println("hola mundo");
+    return null;   
 }
 }
