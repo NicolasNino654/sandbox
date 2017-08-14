@@ -11,8 +11,8 @@ public String ciclo(){
     String ciclo = null;
 return ciclo;
 }
- public int posicion(){     
- return 0;
+ public String posicion(){     
+ return null;
  }
 public int operacion(){     
  return 0;
